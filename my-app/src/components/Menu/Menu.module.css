@@ -1,0 +1,15 @@
+.menu {
+  display: block;
+}
+
+.link {
+ padding: 16px 24px;
+}
+
+.link a {
+  color: black;
+}
+
+.link a:hover {
+  color: blue;
+}
